@@ -1,0 +1,86 @@
+[2025-10-02 16:40:27] ✗ PE_ACTIVIDAD_CULTURAL_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:40:28] ✓ PE_AT_C01_GP_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_AT_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_AT_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ PE_AT_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_AT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_AT_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_AT_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_EC_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ PE_EC_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EC_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C01_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C05_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C06_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C07_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_EV_C08_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HM_C01_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HM_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HM_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HM_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HM_C05_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ PE_HC_C01_GP_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ PE_HC_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C05_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C06_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C07_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C08_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_HC_C09_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ PE_HC_C10_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ PE_NT_C01_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_NT_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ PE_NT_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ PE_NT_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_NT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_NT_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_NT_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ PE_NT_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_AT_C01_GP_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_AT_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_AT_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_AT_C05_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_AT_C06_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_AT_C07_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_AT_C08_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_AT_C09_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_EC_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ SE_EC_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ SE_EV_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_EV_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_EV_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_EV_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_EV_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_EV_C06_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_Extra_01_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:40:28] ✗ SE_XX_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:40:28] ✗ SE_HE_GRIEGO_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:40:28] ✗ SE_HM_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ SE_HM_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_HM_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_HM_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✗ SE_HC_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_HC_C02_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_HC_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_HC_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_HC_C05_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_HC_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_HC_C07_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_HC_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_HC_C09_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_HC_C10_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_NT_C01_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_NT_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_NT_C03_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_NT_C04_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_NT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_NT_C06_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_NT_C07_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✗ SE_NT_EVALUACION_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:40:28] ✗ PE_TS_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:40:28] ✓ SE_TS_C01_XX_transcripcion.txt
+[2025-10-02 16:40:28] ✓ SE_TS_C02_XX_transcripcion.txt

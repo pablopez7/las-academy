@@ -1,0 +1,375 @@
+[2025-10-02 16:44:37] ✗ PE_ACTIVIDAD_CULTURAL_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:44:37] ✗ PE_AT_C01_GP_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_AT_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_AT_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_AT_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_AT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_AT_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_AT_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EC_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EC_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EC_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_EV_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HM_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HM_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HM_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HM_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HM_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C01_GP_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C09_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_HC_C10_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ PE_NT_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C01_GP_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_AT_C09_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EC_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EC_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EV_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EV_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EV_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EV_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EV_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_EV_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_Extra_01_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:44:37] ✗ SE_XX_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:44:37] ✗ SE_HE_GRIEGO_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:44:37] ✗ SE_HM_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HM_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HM_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HM_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C08_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C09_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_HC_C10_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C03_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C04_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C05_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C06_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_C07_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_NT_EVALUACION_C01_XX_transcripcion.txt: No se pudo parsear el nombre del archivo
+[2025-10-02 16:44:37] ✗ PE_TS_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_TS_C01_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ SE_TS_C02_XX_transcripcion.txt: Ya existe en la base de datos
+[2025-10-02 16:44:37] ✗ Video: PE_ACTIVIDAD_CULTURAL_C01_XX.MOV: No se encontró transcripción correspondiente
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C01_GP.MOV → Antiguo Testamento - Clase 01
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C02_XX.MOV → Antiguo Testamento - Clase 02
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C03_XX.MOV → Antiguo Testamento - Clase 03
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C04_XX.MOV → Antiguo Testamento - Clase 04
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C05_XX.MOV → Antiguo Testamento - Clase 05
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C06_XX.MOV → Antiguo Testamento - Clase 06
+[2025-10-02 16:44:37] ✓ Video: PE_AT_C07_XX.MOV → Antiguo Testamento - Clase 07
+[2025-10-02 16:44:37] ✓ Video: PE_EC_C01_XX.MOV → Eclesiología - Clase 01
+[2025-10-02 16:44:37] ✓ Video: PE_EC_C02_XX.MOV → Eclesiología - Clase 02
+[2025-10-02 16:44:37] ✓ Video: PE_EC_C03_XX.MOV → Eclesiología - Clase 03
+[2025-10-02 16:44:37] ✓ Video: PE_EV_C01_XX.MOV → Evangelismo - Clase 01
+[2025-10-02 16:44:37] ✓ Video: PE_EV_C02_XX.MOV → Evangelismo - Clase 02
+[2025-10-02 16:44:37] ✓ Video: PE_EV_C03_XX.MOV → Evangelismo - Clase 03
+[2025-10-02 16:44:37] ✓ Video: PE_EV_C04_XX.MOV → Evangelismo - Clase 04
+[2025-10-02 16:44:37] ✓ Video: PE_EV_C05_XX.MOV → Evangelismo - Clase 05
+[2025-10-02 16:44:37] ✓ Video: PE_EV_C06_XX.MOV → Evangelismo - Clase 06
+[2025-10-02 16:44:38] ✓ Video: PE_EV_C07_XX.MOV → Evangelismo - Clase 07
+[2025-10-02 16:44:38] ✓ Video: PE_EV_C08_XX.MOV → Evangelismo - Clase 08
+[2025-10-02 16:44:38] ✓ Video: PE_HM_C01_XX.MOV → Hermenéutica - Clase 01
+[2025-10-02 16:44:38] ✓ Video: PE_HM_C02_XX.MOV → Hermenéutica - Clase 02
+[2025-10-02 16:44:38] ✓ Video: PE_HM_C03_XX.MOV → Hermenéutica - Clase 03
+[2025-10-02 16:44:38] ✓ Video: PE_HM_C04_XX.MOV → Hermenéutica - Clase 04
+[2025-10-02 16:44:38] ✓ Video: PE_HM_C05_XX.MOV → Hermenéutica - Clase 05
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C01_GP.MOV → Historia del Cristianismo - Clase 01
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C02_XX.MOV → Historia del Cristianismo - Clase 02
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C03_XX.MOV → Historia del Cristianismo - Clase 03
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C04_XX.MOV → Historia del Cristianismo - Clase 04
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C05_XX.MOV → Historia del Cristianismo - Clase 05
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C06_XX.MOV → Historia del Cristianismo - Clase 06
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C07_XX.MOV → Historia del Cristianismo - Clase 07
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C08_XX.MOV → Historia del Cristianismo - Clase 08
+[2025-10-02 16:44:38] ✓ Video: PE_HC_C09_XX.MOV → Historia del Cristianismo - Clase 09
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C01_XX.MOV → Nuevo Testamento - Clase 01
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C02_XX.MOV → Nuevo Testamento - Clase 02
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C03_XX.MOV → Nuevo Testamento - Clase 03
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C04_XX.MOV → Nuevo Testamento - Clase 04
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C05_XX.MOV → Nuevo Testamento - Clase 05
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C06_XX.MOV → Nuevo Testamento - Clase 06
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C07_XX.MOV → Nuevo Testamento - Clase 07
+[2025-10-02 16:44:38] ✓ Video: PE_NT_C08_XX.MOV → Nuevo Testamento - Clase 08
+[2025-10-02 16:44:38] ✗ Video: PE_NT_C09_JM.MOV: No se encontró transcripción correspondiente
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C01_GP.MOV → Antiguo Testamento - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C03_XX.MOV → Antiguo Testamento - Clase 03
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C04_XX.MOV → Antiguo Testamento - Clase 04
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C05_XX.MOV → Antiguo Testamento - Clase 05
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C06_XX.MOV → Antiguo Testamento - Clase 06
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C07_XX.MOV → Antiguo Testamento - Clase 07
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C08_XX.MOV → Antiguo Testamento - Clase 08
+[2025-10-02 16:44:38] ✓ Video: SE_AT_C09_XX.MOV → Antiguo Testamento - Clase 09
+[2025-10-02 16:44:38] ✓ Video: SE_EC_C01_XX.MOV → Eclesiología - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_EC_C02_XX.MOV → Eclesiología - Clase 02
+[2025-10-02 16:44:38] ✓ Video: SE_EV_C01_XX.MOV → Evangelismo - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_EV_C02_XX.MOV → Evangelismo - Clase 02
+[2025-10-02 16:44:38] ✓ Video: SE_EV_C03_XX.MOV → Evangelismo - Clase 03
+[2025-10-02 16:44:38] ✓ Video: SE_EV_C04_XX.MOV → Evangelismo - Clase 04
+[2025-10-02 16:44:38] ✓ Video: SE_EV_C05_XX.MOV → Evangelismo - Clase 05
+[2025-10-02 16:44:38] ✓ Video: SE_EV_C06_XX.MOV → Evangelismo - Clase 06
+[2025-10-02 16:44:38] ✗ Video: SE_HE_GRIEGO_C01_XX.MOV: No se encontró transcripción correspondiente
+[2025-10-02 16:44:38] ✓ Video: SE_HM_C01_XX.MOV → Hermenéutica - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_HM_C02_XX.MOV → Hermenéutica - Clase 02
+[2025-10-02 16:44:38] ✓ Video: SE_HM_C03_XX.MOV → Hermenéutica - Clase 03
+[2025-10-02 16:44:38] ✓ Video: SE_HM_C04_XX.MOV → Hermenéutica - Clase 04
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C01_XX.MOV → Historia del Cristianismo - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C02_XX.MOV → Historia del Cristianismo - Clase 02
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C03_XX.MOV → Historia del Cristianismo - Clase 03
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C04_XX.MOV → Historia del Cristianismo - Clase 04
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C05_XX.MOV → Historia del Cristianismo - Clase 05
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C06_XX.MOV → Historia del Cristianismo - Clase 06
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C07_XX.MOV → Historia del Cristianismo - Clase 07
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C08_XX.MOV → Historia del Cristianismo - Clase 08
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C09_XX.MOV → Historia del Cristianismo - Clase 09
+[2025-10-02 16:44:38] ✓ Video: SE_HC_C10_XX.MOV → Historia del Cristianismo - Clase 10
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C01_XX.MOV → Nuevo Testamento - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C02_XX.MOV → Nuevo Testamento - Clase 02
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C03_XX.MOV → Nuevo Testamento - Clase 03
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C04_XX.MOV → Nuevo Testamento - Clase 04
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C05_XX.MOV → Nuevo Testamento - Clase 05
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C06_XX.MOV → Nuevo Testamento - Clase 06
+[2025-10-02 16:44:38] ✓ Video: SE_NT_C07_XX.MOV → Nuevo Testamento - Clase 07
+[2025-10-02 16:44:38] ✗ Video: SE_NT_EVALUACION_C01_XX.MOV: No se encontró transcripción correspondiente
+[2025-10-02 16:44:38] ✓ Video: PE_TS_C01_XX.MOV → Teología Sistemática - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_TS_C01_XX.MOV → Teología Sistemática - Clase 01
+[2025-10-02 16:44:38] ✓ Video: SE_TS_C02_XX.MOV → Teología Sistemática - Clase 02
+[2025-10-02 16:44:38] ✓ 1 Corintios.md → 1 Corintios
+[2025-10-02 16:44:38] ✓ 1. Conexión con el alma..md → 1. Conexión con el alma.
+[2025-10-02 16:44:38] ✓ 2 Corintios.md → 2 Corintios
+[2025-10-02 16:44:38] ✓ 2. Sincronizar a pecador con el evangelio..md → 2. Sincronizar a pecador con el evangelio.
+[2025-10-02 16:44:38] ✓ 3. Engranar al pecador con Cristo.md → 3. Engranar al pecador con Cristo
+[2025-10-02 16:44:38] ✓ 4. Potencialización..md → 4. Potencialización.
+[2025-10-02 16:44:38] ✓ 5. Responsabilización del mensaje escuchado.md → 5. Responsabilización del mensaje escuchado
+[2025-10-02 16:44:38] ✓ A. (Los que simpatizan) Dormido - Estado del alma.md → A. (Los que simpatizan) Dormido - Estado del alma
+[2025-10-02 16:44:38] ✓ Acentos griego koiné.md → Acentos griego koiné
+[2025-10-02 16:44:38] ✓ Agustín de Hipona.md → Agustín de Hipona
+[2025-10-02 16:44:38] ✓ Análisis exegéticos.md → Análisis exegéticos
+[2025-10-02 16:44:38] ✓ Antiguo testamento 2 introducción.md → Antiguo testamento 2 introducción
+[2025-10-02 16:44:38] ✓ Apuntes reunión - y cómo me arrepiento y la jactancia carnal..md → Apuntes reunión - y cómo me arrepiento y la jactancia carnal.
+[2025-10-02 16:44:38] ✓ B. (Los que consienten) Interesado - Estado del alma.md → B. (Los que consienten) Interesado - Estado del alma
+[2025-10-02 16:44:38] ✓ BASE.md → BASE
+[2025-10-02 16:44:38] ✓ BIBLIOGRAFÍA.md → BIBLIOGRAFÍA
+[2025-10-02 16:44:38] ✓ Brújula de les luthiers.md → Brújula de les luthiers
+[2025-10-02 16:44:38] ✓ Buen funcionamiento y funcionamiento.md → Buen funcionamiento y funcionamiento
+[2025-10-02 16:44:38] ✓ C. (Los que empatizan) Despierto - Estado del alma.md → C. (Los que empatizan) Despierto - Estado del alma
+[2025-10-02 16:44:38] ✓ CITADA.md → CITADA
+[2025-10-02 16:44:38] ✓ Caída incondicional o naturaleza pecaminosa.md → Caída incondicional o naturaleza pecaminosa
+[2025-10-02 16:44:38] ✓ Características del lenguaje.md → Características del lenguaje
+[2025-10-02 16:44:38] ✓ Cierre de asignatura.md → Cierre de asignatura
+[2025-10-02 16:44:38] ✓ Clase 2.md → Clase 2
+[2025-10-02 16:44:38] ✓ Comportamiento humano.md → Comportamiento humano
+[2025-10-02 16:44:38] ✓ Comunicación 2.md → Comunicación 2
+[2025-10-02 16:44:38] ✓ Concilio de nicea.md → Concilio de nicea
+[2025-10-02 16:44:38] ✓ Consumidor pasivo.md → Consumidor pasivo
+[2025-10-02 16:44:38] ✓ Contexto del comportamiento en la hermenéutica.md → Contexto del comportamiento en la hermenéutica
+[2025-10-02 16:44:38] ✓ Contexto del nuevo testamento.md → Contexto del nuevo testamento
+[2025-10-02 16:44:38] ✓ Conversaciones proactivas.md → Conversaciones proactivas
+[2025-10-02 16:44:38] ✓ Corintios.md → Corintios
+[2025-10-02 16:44:38] ✓ Cosas controversiales.md → Cosas controversiales
+[2025-10-02 16:44:38] ✓ Cómo cazan a los lobos.md → Cómo cazan a los lobos
+[2025-10-02 16:44:38] ✓ Cómo se forma una nación.md → Cómo se forma una nación
+[2025-10-02 16:44:38] ✓ D. (Los enganchados) Convicción - Estado del alma.md → D. (Los enganchados) Convicción - Estado del alma
+[2025-10-02 16:44:38] ✓ Derecho canónico.md → Derecho canónico
+[2025-10-02 16:44:38] ✓ Desecha la estructura ideológica.md → Desecha la estructura ideológica
+[2025-10-02 16:44:38] ✓ Dictaduras.md → Dictaduras
+[2025-10-02 16:44:38] ✓ Discipulado clásico.md → Discipulado clásico
+[2025-10-02 16:44:38] ✓ Discipulado.md → Discipulado
+[2025-10-02 16:44:38] ✓ Donatismo.md → Donatismo
+[2025-10-02 16:44:38] ✗ Ed media - Parte 2.md: Archivo vacío
+[2025-10-02 16:44:38] ✓ Edad media - Parte 1 (Estatal).md → Edad media - Parte 1 (Estatal)
+[2025-10-02 16:44:38] ✓ Edad media.md → Edad media
+[2025-10-02 16:44:38] ✓ Egipto - Pico histórico.md → Egipto - Pico histórico
+[2025-10-02 16:44:38] ✓ El camino hacia la salvación.md → El camino hacia la salvación
+[2025-10-02 16:44:38] ✓ El diluvio.md → El diluvio
+[2025-10-02 16:44:38] ✓ El hombre piensa como vive, no vive como piensa.md → El hombre piensa como vive, no vive como piensa
+[2025-10-02 16:44:38] ✓ El negro.md → El negro
+[2025-10-02 16:44:38] ✓ El que gana almas es sabio.md → El que gana almas es sabio
+[2025-10-02 16:44:38] ✓ El señor de las moscas..md → El señor de las moscas.
+[2025-10-02 16:44:38] ✓ Encuentro 1.md → Encuentro 1
+[2025-10-02 16:44:38] ✓ Entregables.md → Entregables
+[2025-10-02 16:44:38] ✓ Era apostolica.md → Era apostolica
+[2025-10-02 16:44:38] ✓ Era constantina.md → Era constantina
+[2025-10-02 16:44:38] ✓ Era primitiva.md → Era primitiva
+[2025-10-02 16:44:38] ✓ Eres siempre responsable de lo que domesticas.md → Eres siempre responsable de lo que domesticas
+[2025-10-02 16:44:38] ✓ Estudio de la creación.md → Estudio de la creación
+[2025-10-02 16:44:38] ✓ Evangelismo en el AT.md → Evangelismo en el AT
+[2025-10-02 16:44:38] ✓ Examen.md → Examen
+[2025-10-02 16:44:38] ✓ Exégesis de Fornicación.md → Exégesis de Fornicación
+[2025-10-02 16:44:38] ✓ Existencia humana.md → Existencia humana
+[2025-10-02 16:44:38] ✓ Expectativas de aprendzaje.md → Expectativas de aprendzaje
+[2025-10-02 16:44:38] ✓ Feedback AT2.md → Feedback AT2
+[2025-10-02 16:44:38] ✓ GUÍA OBSIDIAN.md → GUÍA OBSIDIAN
+[2025-10-02 16:44:38] ✓ Geografía bíblica.md → Geografía bíblica
+[2025-10-02 16:44:38] ✓ Génesis.md → Génesis
+[2025-10-02 16:44:38] ✓ Gnosticismo.md → Gnosticismo
+[2025-10-02 16:44:38] ✓ Grandes hombres de la historia.md → Grandes hombres de la historia
+[2025-10-02 16:44:38] ✓ Griego Koiné.md → Griego Koiné
+[2025-10-02 16:44:38] ✓ Guía de evaluación Rolando.md → Guía de evaluación Rolando
+[2025-10-02 16:44:38] ✓ H. Arrepentimiento (sumisión completa).md → H. Arrepentimiento (sumisión completa)
+[2025-10-02 16:44:38] ✓ HORARIO 1ER ENCUENTRO.md → HORARIO 1ER ENCUENTRO
+[2025-10-02 16:44:38] ✓ Hábitos de lectura.md → Hábitos de lectura
+[2025-10-02 16:44:38] ✓ Hechos.md → Hechos
+[2025-10-02 16:44:38] ✓ Herramientas hermenéutica.md → Herramientas hermenéutica
+[2025-10-02 16:44:38] ✓ Hipocresía social  vs Valorar la ley.md → Hipocresía social  vs Valorar la ley
+[2025-10-02 16:44:38] ✓ Historia eclesiástica.md → Historia eclesiástica
+[2025-10-02 16:44:38] ✓ Horario 2Do encuentro.md → Horario 2Do encuentro
+[2025-10-02 16:44:38] ✓ I. Discipulos de Cristo - Experimenta fe en la cruz de Cristo para su perdón, recibe el ES.md → I. Discipulos de Cristo - Experimenta fe en la cruz de Cristo para su perdón, recibe el ES
+[2025-10-02 16:44:38] ✓ INTRODUCCIÓN.md → INTRODUCCIÓN
+[2025-10-02 16:44:38] ✓ Ideologías lastrantes..md → Ideologías lastrantes.
+[2025-10-02 16:44:38] ✓ Iglesia a la manera apostólica.md → Iglesia a la manera apostólica
+[2025-10-02 16:44:38] ✓ Iglesia invisible.md → Iglesia invisible
+[2025-10-02 16:44:38] ✓ Iglesia, guardián único de la fe..md → Iglesia, guardián único de la fe.
+[2025-10-02 16:44:38] ✓ Imperios.md → Imperios
+[2025-10-02 16:44:38] ✓ Introducción a historia del cristianismo.md → Introducción a historia del cristianismo
+[2025-10-02 16:44:38] ✓ Introducción a teología sistemática.md → Introducción a teología sistemática
+[2025-10-02 16:44:38] ✓ Introducción al AT.md → Introducción al AT
+[2025-10-02 16:44:38] ✓ Introducción al griego Koiné.md → Introducción al griego Koiné
+[2025-10-02 16:44:38] ✓ Introduducción NT2.md → Introduducción NT2
+[2025-10-02 16:44:38] ✓ JOHN SNOGG.md → JOHN SNOGG
+[2025-10-02 16:44:38] ✓ Jacob y Esaú.md → Jacob y Esaú
+[2025-10-02 16:44:38] ✓ John Harbert.md → John Harbert
+[2025-10-02 16:44:39] ✓ Juan.md → Juan
+[2025-10-02 16:44:39] ✓ K. Engaño de Satanás.md → K. Engaño de Satanás
+[2025-10-02 16:44:39] ✗ La carne 1 y 2.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ La creación.md → La creación
+[2025-10-02 16:44:39] ✗ La iglesia peregrina.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ La verdad es la verdad.md → La verdad es la verdad
+[2025-10-02 16:44:39] ✓ Ley de Moisés.md → Ley de Moisés
+[2025-10-02 16:44:39] ✓ Ley de la hospitalidad.md → Ley de la hospitalidad
+[2025-10-02 16:44:39] ✓ Ley de la pureza racial..md → Ley de la pureza racial.
+[2025-10-02 16:44:39] ✓ Ley de la venganza.md → Ley de la venganza
+[2025-10-02 16:44:39] ✓ Leyes cúlticas.md → Leyes cúlticas
+[2025-10-02 16:44:39] ✓ Libros NT.md → Libros NT
+[2025-10-02 16:44:39] ✓ Libros deuterocanónicos.md → Libros deuterocanónicos
+[2025-10-02 16:44:39] ✓ Llegada a egipto.md → Llegada a egipto
+[2025-10-02 16:44:39] ✓ Los evangelios.md → Los evangelios
+[2025-10-02 16:44:39] ✓ Los teólos se tragaron la cuchara.md → Los teólos se tragaron la cuchara
+[2025-10-02 16:44:39] ✓ Lucas.md → Lucas
+[2025-10-02 16:44:39] ✓ Malas palabras.md → Malas palabras
+[2025-10-02 16:44:39] ✓ Marcos.md → Marcos
+[2025-10-02 16:44:39] ✓ Mateo.md → Mateo
+[2025-10-02 16:44:39] ✓ Mega iglesias.md → Mega iglesias
+[2025-10-02 16:44:39] ✓ Memorizar.md → Memorizar
+[2025-10-02 16:44:39] ✓ Modelos de liderazgo eclesial.md → Modelos de liderazgo eclesial
+[2025-10-02 16:44:39] ✓ Montanistas.md → Montanistas
+[2025-10-02 16:44:39] ✓ Motivación.md → Motivación
+[2025-10-02 16:44:39] ✓ Nexo eclesial.md → Nexo eclesial
+[2025-10-02 16:44:39] ✓ Nombres de Dios.md → Nombres de Dios
+[2025-10-02 16:44:39] ✓ Pedir ayuda.md → Pedir ayuda
+[2025-10-02 16:44:39] ✓ Pelagio.md → Pelagio
+[2025-10-02 16:44:39] ✓ Persuación - Evangelismo.md → Persuación - Evangelismo
+[2025-10-02 16:44:39] ✓ Prejuicios.md → Prejuicios
+[2025-10-02 16:44:39] ✓ Primer tema.md → Primer tema
+[2025-10-02 16:44:39] ✓ Principios de liderazgo.md → Principios de liderazgo
+[2025-10-02 16:44:39] ✓ Priscila y aquila.md → Priscila y aquila
+[2025-10-02 16:44:39] ✓ Proceso de pre-evangelismo.md → Proceso de pre-evangelismo
+[2025-10-02 16:44:39] ✓ RECOMENDADA.md → RECOMENDADA
+[2025-10-02 16:44:39] ✓ REMEMBER.md → REMEMBER
+[2025-10-02 16:44:39] ✓ Redefinición de conceptos.md → Redefinición de conceptos
+[2025-10-02 16:44:39] ✓ Reforma paciente.md → Reforma paciente
+[2025-10-02 16:44:39] ✓ Reglas de eufonía en el griego.md → Reglas de eufonía en el griego
+[2025-10-02 16:44:39] ✓ Religión muerta..md → Religión muerta.
+[2025-10-02 16:44:39] ✓ Repaso NT.md → Repaso NT
+[2025-10-02 16:44:39] ✓ Resumen NT.md → Resumen NT
+[2025-10-02 16:44:39] ✓ Romanos.md → Romanos
+[2025-10-02 16:44:39] ✓ Salida de Egipto.md → Salida de Egipto
+[2025-10-02 16:44:39] ✗ Santidad posicioinal.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ Significado hermenéutica.md → Significado hermenéutica
+[2025-10-02 16:44:39] ✓ Signos - griego.md → Signos - griego
+[2025-10-02 16:44:39] ✗ Sin título 1.md: Archivo vacío
+[2025-10-02 16:44:39] ✗ Sin título 2.md: Archivo vacío
+[2025-10-02 16:44:39] ✗ Sin título 3.md: Archivo vacío
+[2025-10-02 16:44:39] ✗ Sin título.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ Somos mayordomos.md → Somos mayordomos
+[2025-10-02 16:44:39] ✓ TS 1.1 Teología de Dios.md → TS 1.1 Teología de Dios
+[2025-10-02 16:44:39] ✓ TS 1.1.1 Existencia de Dios.md → TS 1.1.1 Existencia de Dios
+[2025-10-02 16:44:39] ✓ Tareas encuentro 1.md → Tareas encuentro 1
+[2025-10-02 16:44:39] ✓ Temas a estudiar.md → Temas a estudiar
+[2025-10-02 16:44:39] ✓ Teología progresiva o revelación progresiva.md → Teología progresiva o revelación progresiva
+[2025-10-02 16:44:39] ✓ Todo llamado de Dios conlleva crisis.md → Todo llamado de Dios conlleva crisis
+[2025-10-02 16:44:39] ✓ Todo llamado de Dios crea una necesidad de consagración..md → Todo llamado de Dios crea una necesidad de consagración.
+[2025-10-02 16:44:39] ✓ Tú eres tú y tus circunstancias.md → Tú eres tú y tus circunstancias
+[2025-10-02 16:44:39] ✓ Un Solo Tipo.md → Un Solo Tipo
+[2025-10-02 16:44:39] ✓ Unidad en la iglesia.md → Unidad en la iglesia
+[2025-10-02 16:44:39] ✓ Unión iglesia-estado.md → Unión iglesia-estado
+[2025-10-02 16:44:39] ✗ Untitled 1.md: Archivo vacío
+[2025-10-02 16:44:39] ✗ Untitled.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ Usos y costumbres del NT.md → Usos y costumbres del NT
+[2025-10-02 16:44:39] ✓ ancianos en la iglesia.md → ancianos en la iglesia
+[2025-10-02 16:44:39] ✓ apostolado.md → apostolado
+[2025-10-02 16:44:39] ✓ balance.md → balance
+[2025-10-02 16:44:39] ✓ calvinismo y arminianismo.md → calvinismo y arminianismo
+[2025-10-02 16:44:39] ✓ ciencia.md → ciencia
+[2025-10-02 16:44:39] ✓ cigarros.md → cigarros
+[2025-10-02 16:44:39] ✓ círculopio y solilopio.md → círculopio y solilopio
+[2025-10-02 16:44:39] ✓ como dice la escritura.md → como dice la escritura
+[2025-10-02 16:44:39] ✓ comunicación aplicada a la hermenéutica.md → comunicación aplicada a la hermenéutica
+[2025-10-02 16:44:39] ✓ convicción de oro.md → convicción de oro
+[2025-10-02 16:44:39] ✓ convicción provocada.md → convicción provocada
+[2025-10-02 16:44:39] ✓ cristiandad.md → cristiandad
+[2025-10-02 16:44:39] ✓ cristianismo.md → cristianismo
+[2025-10-02 16:44:39] ✓ doctrinas de la religión muerta.md → doctrinas de la religión muerta
+[2025-10-02 16:44:39] ✓ escatología.md → escatología
+[2025-10-02 16:44:39] ✗ ethos.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ etiologíoa.md → etiologíoa
+[2025-10-02 16:44:39] ✗ evangelio.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ eventos únicos y ocasionales en la biblia.md → eventos únicos y ocasionales en la biblia
+[2025-10-02 16:44:39] ✓ grupos radicales.md → grupos radicales
+[2025-10-02 16:44:39] ✓ holística espiritual.md → holística espiritual
+[2025-10-02 16:44:39] ✗ huérfanos espirituales.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ iglesia orgánica.md → iglesia orgánica
+[2025-10-02 16:44:39] ✓ iglesia.md → iglesia
+[2025-10-02 16:44:39] ✓ introducción a eclesiología.md → introducción a eclesiología
+[2025-10-02 16:44:39] ✓ introducción al evangelismo.md → introducción al evangelismo
+[2025-10-02 16:44:39] ✓ la caía de la humanidad.md → la caía de la humanidad
+[2025-10-02 16:44:39] ✓ mecanismos de control social.md → mecanismos de control social
+[2025-10-02 16:44:39] ✓ novicianismo.md → novicianismo
+[2025-10-02 16:44:39] ✓ origen único de las lenguas.md → origen único de las lenguas
+[2025-10-02 16:44:39] ✗ paz.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ proceso motivacional.md → proceso motivacional
+[2025-10-02 16:44:39] ✗ protestantismo.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ reinterpretar.md → reinterpretar
+[2025-10-02 16:44:39] ✓ sanidad interior.md → sanidad interior
+[2025-10-02 16:44:39] ✓ santidad posicional.md → santidad posicional
+[2025-10-02 16:44:39] ✗ septuaginta.md: Archivo vacío
+[2025-10-02 16:44:39] ✓ sócrates.md → sócrates
+[2025-10-02 16:44:39] ✓ superación personal.md → superación personal
+[2025-10-02 16:44:39] ✓ tabla comparativa libros NT.md → tabla comparativa libros NT
+[2025-10-02 16:44:39] ✓ tareas encuentro 2.md → tareas encuentro 2
+[2025-10-02 16:44:39] ✓ teología.md → teología
+[2025-10-02 16:44:39] ✓ tipos de convición.md → tipos de convición

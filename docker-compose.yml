@@ -1,0 +1,87 @@
+version: '3.8'
+
+services:
+  # Aplicación Laravel
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: las-academy-app
+    restart: unless-stopped
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+      - ./php.ini:/usr/local/etc/php/conf.d/custom.ini
+      - /Users/pablopez/Seminario Letra al que Sirve:/data/seminario:ro
+    ports:
+      - "80:80"
+      - "5173:5173"  # Vite HMR
+    networks:
+      - las-academy-network
+    depends_on:
+      - mysql
+      - redis
+    environment:
+      - APP_ENV=local
+      - APP_DEBUG=true
+      - DB_HOST=mysql
+      - DB_DATABASE=las_academy
+      - DB_USERNAME=las_user
+      - DB_PASSWORD=las_password
+      - REDIS_HOST=redis
+
+  # MySQL Database
+  mysql:
+    image: mysql:8.0
+    container_name: las-academy-mysql
+    restart: unless-stopped
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: las_academy
+      MYSQL_USER: las_user
+      MYSQL_PASSWORD: las_password
+      MYSQL_ROOT_PASSWORD: root_password
+    volumes:
+      - mysql-data:/var/lib/mysql
+    networks:
+      - las-academy-network
+    command: --default-authentication-plugin=mysql_native_password
+
+  # Redis (para cache y sesiones)
+  redis:
+    image: redis:alpine
+    container_name: las-academy-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - las-academy-network
+
+  # PhpMyAdmin (opcional - para gestión visual de BD)
+  phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: las-academy-phpmyadmin
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: mysql
+      PMA_USER: las_user
+      PMA_PASSWORD: las_password
+    networks:
+      - las-academy-network
+    depends_on:
+      - mysql
+
+networks:
+  las-academy-network:
+    driver: bridge
+
+volumes:
+  mysql-data:
+    driver: local
+  redis-data:
+    driver: local
